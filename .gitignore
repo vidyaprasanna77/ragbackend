@@ -1,5 +1,5 @@
 venv
-docker-compose.yml
+
 __pycache__
 .DS_Store
 .env
